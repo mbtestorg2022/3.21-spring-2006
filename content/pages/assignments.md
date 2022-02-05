@@ -10,33 +10,357 @@ The problems and solutions are in the course textbook:
 
 Balluffi, R. W., S. M. Allen, and W. C. Carter. _Kinetics of Materials_. New York, NY: John Wiley & Sons, 2005. ISBN: 9780471246893.
 
-| SES # | TOPICS | ASSIGNMENTS |
-| --- | --- | --- |
-| L1 | Introduction: Fields and Gradients; Fluxes; Continuity Equation | 1.1-1.4 |
-| L2 | Irreversible Thermodynamics | 2.1-2.4 |
-| L3 | Driving Forces and Fluxes for Diffusion; Self-Diffusion and Interdiffusion | See the end of lecture summary for SES #L3 ([PDF]({{< baseurl >}}/resources/ls3)) |
-| L4 | Interdiffusion; Effects of Electrical Potential, Capillarity, and Stress on Diffusion Potential | 3.1-3.8, 3.10 |
-| L5 | Effects of Capillarity and Stress on Diffusion | 3.8 |
-| L6 | The Diffusion Equation | 5.5 |
-| L7 | Solutions to the Diffusion Equation - I | 4.1-4.8 |
-| L8 | Solutions to the Diffusion Equation - II | 5.1-5.1 |
-| L9 | Solutions to the Diffusion Equation - III | 5.10-5.13 |
-| L10 | Activated Jump Processes | 7.1, 7.3-7.6 |
-| L11 | Diffusion Resulting from Discrete Jumps | 7.3-7.6 |
-| L12 | Diffusion in Crystals | 8.1-8.8 |
-| L13 | Atomic Models for Diffusivities - I | 8.12-8.15 |
-| L14 | Atomic Models for Diffusivities - II | 8.15-8.19 |
-| L15 | Short-Circuit Diffusion in Crystals | 9.1-9.5 |
-| L16 | Diffusion in Noncrystalline Materials | None |
-| L17 | Surface Evolution Due to Capillary Forces | 14.1-14.3 |
-| L18 | Particle Coarsening | 15.1-15.2 |
-| L19 | Grain Growth | 15.3-15.4 |
-| L20 | Diverse Short Topics: Anisotropic Surfaces, Diffusional Creep, and Sintering | 14.4 |
-| L21 | General Features of Phase Transformations | None |
-| L22 | Spinodal Decomposition and Continuous Ordering | 18.2-4 |
-| L23 | Spinodal Decomposition Kinetics | 18.2-4 |
-| L24 | Nucleation | 19.1-3 |
-| L25 | Heterogeneous Nucleation | 19.7-9 |
-| L26 | Diffusional Growth | 20.2, 20.4 |
-| L27 | Morphological Stability of Moving Interfaces | 20.8 |
-| L28 | Kinetics of Nucleation and Growth Transformations | 21.1-2
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Fields and Gradients; Fluxes; Continuity Equation
+{{< tdclose >}}
+{{< tdopen >}}
+1.1-1.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Irreversible Thermodynamics
+{{< tdclose >}}
+{{< tdopen >}}
+2.1-2.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Driving Forces and Fluxes for Diffusion; Self-Diffusion and Interdiffusion
+{{< tdclose >}}
+{{< tdopen >}}
+See the end of lecture summary for SES #L3 ([PDF]({{< baseurl >}}/resources/ls3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Interdiffusion; Effects of Electrical Potential, Capillarity, and Stress on Diffusion Potential
+{{< tdclose >}}
+{{< tdopen >}}
+3.1-3.8, 3.10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Effects of Capillarity and Stress on Diffusion
+{{< tdclose >}}
+{{< tdopen >}}
+3.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+The Diffusion Equation
+{{< tdclose >}}
+{{< tdopen >}}
+5.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Solutions to the Diffusion Equation - I
+{{< tdclose >}}
+{{< tdopen >}}
+4.1-4.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Solutions to the Diffusion Equation - II
+{{< tdclose >}}
+{{< tdopen >}}
+5.1-5.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Solutions to the Diffusion Equation - III
+{{< tdclose >}}
+{{< tdopen >}}
+5.10-5.13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Activated Jump Processes
+{{< tdclose >}}
+{{< tdopen >}}
+7.1, 7.3-7.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Diffusion Resulting from Discrete Jumps
+{{< tdclose >}}
+{{< tdopen >}}
+7.3-7.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Diffusion in Crystals
+{{< tdclose >}}
+{{< tdopen >}}
+8.1-8.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Atomic Models for Diffusivities - I
+{{< tdclose >}}
+{{< tdopen >}}
+8.12-8.15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Atomic Models for Diffusivities - II
+{{< tdclose >}}
+{{< tdopen >}}
+8.15-8.19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Short-Circuit Diffusion in Crystals
+{{< tdclose >}}
+{{< tdopen >}}
+9.1-9.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Diffusion in Noncrystalline Materials
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Surface Evolution Due to Capillary Forces
+{{< tdclose >}}
+{{< tdopen >}}
+14.1-14.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Particle Coarsening
+{{< tdclose >}}
+{{< tdopen >}}
+15.1-15.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+Grain Growth
+{{< tdclose >}}
+{{< tdopen >}}
+15.3-15.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+Diverse Short Topics: Anisotropic Surfaces, Diffusional Creep, and Sintering
+{{< tdclose >}}
+{{< tdopen >}}
+14.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+General Features of Phase Transformations
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Spinodal Decomposition and Continuous Ordering
+{{< tdclose >}}
+{{< tdopen >}}
+18.2-4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+Spinodal Decomposition Kinetics
+{{< tdclose >}}
+{{< tdopen >}}
+18.2-4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L24
+{{< tdclose >}}
+{{< tdopen >}}
+Nucleation
+{{< tdclose >}}
+{{< tdopen >}}
+19.1-3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L25
+{{< tdclose >}}
+{{< tdopen >}}
+Heterogeneous Nucleation
+{{< tdclose >}}
+{{< tdopen >}}
+19.7-9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L26
+{{< tdclose >}}
+{{< tdopen >}}
+Diffusional Growth
+{{< tdclose >}}
+{{< tdopen >}}
+20.2, 20.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L27
+{{< tdclose >}}
+{{< tdopen >}}
+Morphological Stability of Moving Interfaces
+{{< tdclose >}}
+{{< tdopen >}}
+20.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L28
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetics of Nucleation and Growth Transformations
+{{< tdclose >}}
+{{< tdopen >}}
+21.1-2
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

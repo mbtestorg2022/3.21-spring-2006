@@ -43,48 +43,405 @@ The course grading is based on equal weight among the three exams (1/3 each).
 
 The calendar below provides information on the course's lecture (L) and recitation (R) sessions.
 
-| SES # | TOPICS |
-| --- | --- |
-| L1 | Introduction: Fields and Gradients; Fluxes; Continuity Equation |
-| R1 | Recitation |
-| L2 | Irreversible Thermodynamics |
-| L3 | Driving Forces and Fluxes for Diffusion; Self-Diffusion and Interdiffusion |
-| R2 | Recitation |
-| L4 | Interdiffusion; Effects of Electrical Potential, Capillarity, and Stress on Diffusion Potential |
-| L5 | Effects of Capillarity and Stress on Diffusion |
-| L6 | The Diffusion Equation |
-| R3 | Recitation |
-| L7 | Solutions to the Diffusion Equation - I |
-| L8 | Solutions to the Diffusion Equation - II |
-| L9 | Solutions to the Diffusion Equation - III |
-| R3 | Recitation |
-| L10 | Activated Jump Processes |
-| L11 | Diffusion Resulting from Discrete Jumps |
-| L12 | Diffusion in Crystals |
-| R4 | Recitation |
-| &nbsp; | Exam 1 |
-| L13 | Atomic Models for Diffusivities - I |
-| L14 | Atomic Models for Diffusivities - II |
-| R5 | Recitation |
-| L15 | Short-Circuit Diffusion in Crystals |
-| L16 | Diffusion in Noncrystalline Materials |
-| L17 | Surface Evolution Due to Capillary Forces |
-| R6 | Recitation |
-| L18 | Particle Coarsening |
-| L19 | Grain Growth |
-| L20 | Diverse Short Topics: Anisotropic Surfaces, Diffusional Creep, and Sintering |
-| R7 | Recitation |
-| &nbsp; | Exam 2 |
-| L21 | General Features of Phase Transformations |
-| R8 | Recitation |
-| L22 | Spinodal Decomposition and Continuous Ordering |
-| L23 | Spinodal Decomposition Kinetics |
-| R9 | Recitation |
-| L24 | Nucleation |
-| L25 | Heterogeneous Nucleation |
-| L26 | Diffusional Growth |
-| R10 | Recitation |
-| L27 | Morphological Stability of Moving Interfaces |
-| L28 | Kinetics of Nucleation and Growth Transformations |
-| R11 | Recitation |
-| &nbsp; | Exam 3
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Fields and Gradients; Fluxes; Continuity Equation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Irreversible Thermodynamics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Driving Forces and Fluxes for Diffusion; Self-Diffusion and Interdiffusion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Interdiffusion; Effects of Electrical Potential, Capillarity, and Stress on Diffusion Potential
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Effects of Capillarity and Stress on Diffusion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+The Diffusion Equation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Solutions to the Diffusion Equation - I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Solutions to the Diffusion Equation - II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Solutions to the Diffusion Equation - III
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Activated Jump Processes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Diffusion Resulting from Discrete Jumps
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Diffusion in Crystals
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R4
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Atomic Models for Diffusivities - I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Atomic Models for Diffusivities - II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R5
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Short-Circuit Diffusion in Crystals
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Diffusion in Noncrystalline Materials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Surface Evolution Due to Capillary Forces
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R6
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Particle Coarsening
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+Grain Growth
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+Diverse Short Topics: Anisotropic Surfaces, Diffusional Creep, and Sintering
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R7
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+General Features of Phase Transformations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R8
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Spinodal Decomposition and Continuous Ordering
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+Spinodal Decomposition Kinetics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R9
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L24
+{{< tdclose >}}
+{{< tdopen >}}
+Nucleation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L25
+{{< tdclose >}}
+{{< tdopen >}}
+Heterogeneous Nucleation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L26
+{{< tdclose >}}
+{{< tdopen >}}
+Diffusional Growth
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R10
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L27
+{{< tdclose >}}
+{{< tdopen >}}
+Morphological Stability of Moving Interfaces
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L28
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetics of Nucleation and Growth Transformations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R11
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 3
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
