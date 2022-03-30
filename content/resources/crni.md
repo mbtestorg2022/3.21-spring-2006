@@ -9,6 +9,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f1d1babc-c43d-1f07-64ef-1e5e6df16aaa
 resourcetype: Image
 title: CrNi.tif
 uid: cf286cf1-b95f-b84c-932f-c2765d644623
